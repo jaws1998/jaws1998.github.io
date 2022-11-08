@@ -3,3 +3,7 @@ body {
     font-family:cursive;
     color: gainsboro;
 }
+a {
+    text-decoration: wavy;
+    color: cornflowerblue;
+}
